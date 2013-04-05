@@ -1,0 +1,167 @@
+# data file for the Fltk User Interface Designer (fluid)
+version 1.0301 
+header_name {.h} 
+code_name {.cxx}
+decl {\#include<stdio.h>} {private local
+} 
+
+decl {\#include<stdlib.h>} {private local
+} 
+
+Function {MENU_CB(Fl_Widget*, void* Data)} {open return_type {static void}
+} {
+  code {printf("IT IS ALL WORKING!!!!  Data = '%s'\\n", (const char*) Data);} {}
+} 
+
+Function {WIN_QUIT_CB(Fl_Widget*, void*)} {open return_type {static void}
+} {
+  code {printf("PROGRAM IS EXITING NOW!!!\\n");
+exit(0);} {}
+} 
+
+Function {} {open
+} {
+  Fl_Window {} {
+    label {Thirion Demons Registration GUI}
+    callback WIN_QUIT_CB open
+    xywh {1269 199 910 720} type Double box BORDER_BOX labelfont 11 resizable visible
+  } {
+    Fl_Group {} {
+      label {Fixed Image} open
+      tooltip {The Fixed Image} xywh {10 45 245 210} box ENGRAVED_BOX labelfont 11 align 577
+    } {
+      Fl_Box {} {
+        label label
+        xywh {35 73 190 142}
+      }
+    }
+    Fl_Group {} {
+      label {Moving Image} open
+      tooltip {The Moving Image} xywh {10 275 245 205} box ENGRAVED_BOX labelfont 11
+    } {}
+    Fl_Group {} {
+      label Alignment open
+      xywh {265 45 625 435} box ENGRAVED_BOX labelfont 11
+    } {}
+    Fl_Group {} {
+      label Parameters open
+      xywh {10 505 880 205} box ENGRAVED_BOX labelfont 11 align 5
+    } {
+      Fl_Button Go_Button {
+        label GO
+        user_data {"File/Go"}
+        callback MENU_CB
+        tooltip {Start Registration} xywh {795 520 85 50} box ENGRAVED_BOX down_box GTK_UP_FRAME color 44 selection_color 61 labelfont 11
+      }
+      Fl_Button Import_Button {
+        label IMPORT
+        user_data {"File/Import"}
+        callback MENU_CB
+        tooltip {Import Two Images (TYPE?)} xywh {795 580 85 50} box ENGRAVED_BOX down_box GTK_UP_FRAME color 44 selection_color 177 labelfont 11
+      }
+      Fl_Button Export_Button {
+        label EXPORT
+        user_data {"File/Export"}
+        callback MENU_CB
+        tooltip {Export Registered Image} xywh {795 640 85 50} box ENGRAVED_BOX down_box GTK_UP_FRAME color 44 selection_color 177 labelfont 11
+      }
+      Fl_Value_Slider {} {
+        label {slider:}
+        xywh {35 530 180 21} type {Horz Knob} textsize 14
+      }
+      Fl_Value_Slider {} {
+        label {slider:}
+        xywh {35 574 180 21} type {Horz Knob} textsize 14
+      }
+      Fl_Counter {} {
+        label {counter:}
+        xywh {240 530 245 21}
+      }
+      Fl_Value_Slider {} {
+        label {slider:}
+        xywh {35 619 180 21} type {Horz Knob} textsize 14
+      }
+      Fl_Spinner {} {
+        label {spinner:}
+        xywh {305 580 70 25}
+      }
+      Fl_Scrollbar {} {
+        label Slide
+        xywh {245 625 185 20} type Horizontal maximum 100
+      }
+      Fl_Value_Input {} {
+        label {input value:}
+        xywh {590 530 50 25}
+      }
+      Fl_Value_Output {} {
+        label {output value:}
+        xywh {550 570 90 25}
+      }
+    }
+    Fl_Menu_Bar {} {open selected
+      xywh {0 0 910 20} box ENGRAVED_BOX down_box GTK_UP_BOX selection_color 177 textfont 11
+    } {
+      Submenu {} {
+        label File open
+        xywh {0 0 70 21} labelfont 11
+      } {
+        MenuItem Menu_Save {
+          label Save
+          user_data {"File/Save"}
+          callback MENU_CB
+          xywh {0 0 36 21} labelfont 11
+        }
+        MenuItem Menu_Import {
+          label Import
+          user_data {"File/Import"}
+          callback MENU_CB
+          xywh {0 0 36 21} labelfont 11
+        }
+        MenuItem Menu_Export {
+          label Export
+          user_data {"File/Export"}
+          callback MENU_CB
+          xywh {0 0 36 21} labelfont 11
+        }
+        MenuItem Menu_Go {
+          label Go
+          user_data {"File/Go"}
+          callback MENU_CB
+          xywh {0 0 36 21} labelfont 11
+        }
+      }
+      Submenu {} {
+        label About open
+        xywh {0 0 70 21} labelfont 11
+      } {
+        MenuItem Menu_Project {
+          label Project
+          user_data {"About/Project"}
+          callback MENU_CB
+          xywh {0 0 36 21} labelfont 11
+        }
+        MenuItem Menu_Team {
+          label Team
+          user_data {"About/Team"}
+          callback MENU_CB
+          xywh {0 0 36 21} labelfont 11
+        }
+      }
+      Submenu {} {
+        label Help open
+        xywh {0 0 70 21} labelfont 11
+      } {
+        MenuItem Menu_HowToUse {
+          label {How to Use}
+          user_data {"Help/HowToUse"}
+          callback MENU_CB
+          xywh {0 0 36 21} labelfont 11
+        }
+      }
+    }
+    Fl_Progress {} {
+      label {Registration Progress}
+      tooltip {Measures Registration Progress} xywh {705 -1 205 21} selection_color 4 labelfont 11 deactivate
+    }
+  }
+} 
