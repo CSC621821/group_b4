@@ -12,6 +12,11 @@ project(Demons)
 find_package(ITK REQUIRED)
 include(${ITK_USE_FILE})
 
+find_package(VTK)
+if(VTK_FOUND)
+	include(${USE_VTK_FILE})
+endif(VTK_FOUND)
+
 add_executable(Demons DeformableRegistration2.cxx )
 
 target_link_libraries(Demons ${ITK_LIBRARIES})

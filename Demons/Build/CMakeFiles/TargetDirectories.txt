@@ -1,1 +1,0 @@
-/home/serdar/Desktop/Demons/Build/CMakeFiles/Demons.dir
