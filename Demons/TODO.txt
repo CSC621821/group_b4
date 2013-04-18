@@ -1,0 +1,5 @@
+ - Paramaters are hardcoded. Make the user input them, with default values otherwise.
+
+ - (If possible) Make it work with both 2d and 3d images.
+
+ - GUI and visualization (for manual visualization: paraview)
