@@ -1,0 +1,298 @@
+863.393  RMS Change: 7.35024
+Level Tolerance=  0.8
+339.086  RMS Change: 7.15569
+Level Tolerance=  0.8
+196.748  RMS Change: 6.72861
+Level Tolerance=  0.8
+153.968  RMS Change: 6.19764
+Level Tolerance=  0.8
+125.008  RMS Change: 5.88503
+Level Tolerance=  0.8
+99.1735  RMS Change: 5.67837
+Level Tolerance=  0.8
+81.3031  RMS Change: 5.51682
+Level Tolerance=  0.8
+69.3622  RMS Change: 5.36314
+Level Tolerance=  0.8
+59.801  RMS Change: 5.25227
+Level Tolerance=  0.8
+53.1243  RMS Change: 5.14566
+Level Tolerance=  0.8
+49.3824  RMS Change: 5.09067
+Level Tolerance=  0.8
+47.2262  RMS Change: 5.00836
+Level Tolerance=  0.8
+44.5796  RMS Change: 4.95579
+Level Tolerance=  0.8
+42.6236  RMS Change: 4.88553
+Level Tolerance=  0.8
+40.7552  RMS Change: 4.82999
+Level Tolerance=  0.8
+39.5823  RMS Change: 4.78647
+Level Tolerance=  0.8
+38.8185  RMS Change: 4.72991
+Level Tolerance=  0.8
+37.5745  RMS Change: 4.68833
+Level Tolerance=  0.8
+37.2641  RMS Change: 4.64924
+Level Tolerance=  0.8
+36.1384  RMS Change: 4.62863
+Level Tolerance=  0.8
+36.2531  RMS Change: 4.59929
+Level Tolerance=  0.8
+35.1593  RMS Change: 4.58842
+Level Tolerance=  0.8
+35.6239  RMS Change: 4.55726
+Level Tolerance=  0.8
+33.8722  RMS Change: 4.54201
+Level Tolerance=  0.8
+34.4359  RMS Change: 4.52493
+Level Tolerance=  0.8
+33.1943  RMS Change: 4.51089
+Level Tolerance=  0.8
+33.8387  RMS Change: 4.49111
+Level Tolerance=  0.8
+32.6682  RMS Change: 4.48837
+Level Tolerance=  0.8
+33.272  RMS Change: 4.45676
+Level Tolerance=  0.8
+32.0514  RMS Change: 4.44941
+Level Tolerance=  0.8
+32.5684  RMS Change: 4.41418
+Level Tolerance=  0.8
+31.9249  RMS Change: 4.39793
+Level Tolerance=  0.8
+31.9756  RMS Change: 4.36937
+Level Tolerance=  0.8
+30.9931  RMS Change: 4.35534
+Level Tolerance=  0.8
+31.5061  RMS Change: 4.3294
+Level Tolerance=  0.8
+30.7095  RMS Change: 4.31595
+Level Tolerance=  0.8
+31.0768  RMS Change: 4.29273
+Level Tolerance=  0.8
+30.6199  RMS Change: 4.28622
+Level Tolerance=  0.8
+30.8099  RMS Change: 4.26155
+Level Tolerance=  0.8
+29.9532  RMS Change: 4.26075
+Level Tolerance=  0.8
+----------------------------------
+----------------------------------
+85.464  RMS Change: 2.31215
+Level Tolerance=  0.75
+70.1678  RMS Change: 2.23285
+Level Tolerance=  0.75
+81.8934  RMS Change: 2.19737
+Level Tolerance=  0.75
+88.6231  RMS Change: 2.17426
+Level Tolerance=  0.75
+85.8524  RMS Change: 2.16138
+Level Tolerance=  0.75
+90.9568  RMS Change: 2.14848
+Level Tolerance=  0.75
+85.0836  RMS Change: 2.13947
+Level Tolerance=  0.75
+92.2048  RMS Change: 2.13012
+Level Tolerance=  0.75
+87.0426  RMS Change: 2.12209
+Level Tolerance=  0.75
+87.6816  RMS Change: 2.11507
+Level Tolerance=  0.75
+91.8262  RMS Change: 2.10741
+Level Tolerance=  0.75
+88.0304  RMS Change: 2.09993
+Level Tolerance=  0.75
+87.1987  RMS Change: 2.09424
+Level Tolerance=  0.75
+82.3005  RMS Change: 2.08818
+Level Tolerance=  0.75
+86.5033  RMS Change: 2.08248
+Level Tolerance=  0.75
+78.1521  RMS Change: 2.07786
+Level Tolerance=  0.75
+84.8486  RMS Change: 2.07201
+Level Tolerance=  0.75
+74.4382  RMS Change: 2.06913
+Level Tolerance=  0.75
+82.3928  RMS Change: 2.06394
+Level Tolerance=  0.75
+70.8619  RMS Change: 2.06351
+Level Tolerance=  0.75
+81.3309  RMS Change: 2.05685
+Level Tolerance=  0.75
+68.1047  RMS Change: 2.0577
+Level Tolerance=  0.75
+81.2214  RMS Change: 2.04941
+Level Tolerance=  0.75
+67.4666  RMS Change: 2.05032
+Level Tolerance=  0.75
+79.0493  RMS Change: 2.04443
+Level Tolerance=  0.75
+66.8836  RMS Change: 2.04515
+Level Tolerance=  0.75
+77.7517  RMS Change: 2.03909
+Level Tolerance=  0.75
+66.1273  RMS Change: 2.03958
+Level Tolerance=  0.75
+76.0799  RMS Change: 2.03471
+Level Tolerance=  0.75
+66.1072  RMS Change: 2.03381
+Level Tolerance=  0.75
+74.7797  RMS Change: 2.02914
+Level Tolerance=  0.75
+66.4461  RMS Change: 2.02907
+Level Tolerance=  0.75
+73.5944  RMS Change: 2.02495
+Level Tolerance=  0.75
+64.7803  RMS Change: 2.0246
+Level Tolerance=  0.75
+71.3807  RMS Change: 2.02042
+Level Tolerance=  0.75
+65.6993  RMS Change: 2.01963
+Level Tolerance=  0.75
+71.1286  RMS Change: 2.01643
+Level Tolerance=  0.75
+63.7765  RMS Change: 2.01637
+Level Tolerance=  0.75
+71.7283  RMS Change: 2.01286
+Level Tolerance=  0.75
+64.2082  RMS Change: 2.01236
+Level Tolerance=  0.75
+----------------------------------
+----------------------------------
+67.0803  RMS Change: 1.05723
+Level Tolerance=  0.4
+75.246  RMS Change: 1.03344
+Level Tolerance=  0.4
+80.8768  RMS Change: 1.02385
+Level Tolerance=  0.4
+83.8952  RMS Change: 1.01697
+Level Tolerance=  0.4
+85.8817  RMS Change: 1.0119
+Level Tolerance=  0.4
+87.2339  RMS Change: 1.00712
+Level Tolerance=  0.4
+87.4831  RMS Change: 1.00324
+Level Tolerance=  0.4
+90.3136  RMS Change: 0.999558
+Level Tolerance=  0.4
+89.164  RMS Change: 0.996342
+Level Tolerance=  0.4
+91.6241  RMS Change: 0.993331
+Level Tolerance=  0.4
+90.0647  RMS Change: 0.990871
+Level Tolerance=  0.4
+92.1325  RMS Change: 0.988268
+Level Tolerance=  0.4
+89.8681  RMS Change: 0.986378
+Level Tolerance=  0.4
+93.3166  RMS Change: 0.983946
+Level Tolerance=  0.4
+89.7738  RMS Change: 0.982475
+Level Tolerance=  0.4
+93.2178  RMS Change: 0.980401
+Level Tolerance=  0.4
+89.8785  RMS Change: 0.979291
+Level Tolerance=  0.4
+94.3144  RMS Change: 0.977334
+Level Tolerance=  0.4
+88.6335  RMS Change: 0.9765
+Level Tolerance=  0.4
+94.6427  RMS Change: 0.97478
+Level Tolerance=  0.4
+89.0134  RMS Change: 0.974126
+Level Tolerance=  0.4
+94.1667  RMS Change: 0.972427
+Level Tolerance=  0.4
+89.7114  RMS Change: 0.971869
+Level Tolerance=  0.4
+94.0896  RMS Change: 0.970371
+Level Tolerance=  0.4
+89.9948  RMS Change: 0.969927
+Level Tolerance=  0.4
+94.5273  RMS Change: 0.96836
+Level Tolerance=  0.4
+89.4786  RMS Change: 0.968043
+Level Tolerance=  0.4
+94.195  RMS Change: 0.966623
+Level Tolerance=  0.4
+90.2615  RMS Change: 0.966277
+Level Tolerance=  0.4
+93.9648  RMS Change: 0.965184
+Level Tolerance=  0.4
+90.6236  RMS Change: 0.964615
+Level Tolerance=  0.4
+94.2626  RMS Change: 0.963538
+Level Tolerance=  0.4
+----------------------------------
+----------------------------------
+82.5434  RMS Change: 0.57977
+Level Tolerance=  0.2
+87.7301  RMS Change: 0.567781
+Level Tolerance=  0.2
+89.519  RMS Change: 0.56267
+Level Tolerance=  0.2
+89.7347  RMS Change: 0.559483
+Level Tolerance=  0.2
+88.9879  RMS Change: 0.557179
+Level Tolerance=  0.2
+86.2216  RMS Change: 0.555428
+Level Tolerance=  0.2
+86.5283  RMS Change: 0.554023
+Level Tolerance=  0.2
+84.1911  RMS Change: 0.552939
+Level Tolerance=  0.2
+85.1574  RMS Change: 0.551984
+Level Tolerance=  0.2
+83.0381  RMS Change: 0.551216
+Level Tolerance=  0.2
+84.9453  RMS Change: 0.550562
+Level Tolerance=  0.2
+82.4187  RMS Change: 0.550103
+Level Tolerance=  0.2
+84.8404  RMS Change: 0.549646
+Level Tolerance=  0.2
+82.3283  RMS Change: 0.549298
+Level Tolerance=  0.2
+85.0739  RMS Change: 0.548897
+Level Tolerance=  0.2
+82.2547  RMS Change: 0.548608
+Level Tolerance=  0.2
+85.2474  RMS Change: 0.548255
+Level Tolerance=  0.2
+82.3592  RMS Change: 0.548011
+Level Tolerance=  0.2
+85.363  RMS Change: 0.547707
+Level Tolerance=  0.2
+82.8588  RMS Change: 0.547473
+Level Tolerance=  0.2
+85.8129  RMS Change: 0.547168
+Level Tolerance=  0.2
+82.6899  RMS Change: 0.546958
+Level Tolerance=  0.2
+86.101  RMS Change: 0.546656
+Level Tolerance=  0.2
+83.1384  RMS Change: 0.546444
+Level Tolerance=  0.2
+86.5027  RMS Change: 0.546132
+Level Tolerance=  0.2
+83.4058  RMS Change: 0.545905
+Level Tolerance=  0.2
+86.872  RMS Change: 0.545607
+Level Tolerance=  0.2
+83.6284  RMS Change: 0.54538
+Level Tolerance=  0.2
+87.3403  RMS Change: 0.545065
+Level Tolerance=  0.2
+84.1175  RMS Change: 0.544856
+Level Tolerance=  0.2
+87.5294  RMS Change: 0.544541
+Level Tolerance=  0.2
+84.3118  RMS Change: 0.544301
+Level Tolerance=  0.2
+----------------------------------
+----------------------------------
+time = ~ 90 min
+
